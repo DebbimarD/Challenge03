@@ -128,6 +128,10 @@ Una vez teniamos la mayor parte del templo hecho, se va a objetos 3D y se agrega
   <p><i>.</i></p>
 </div>
 
+### Historia
+
+### Experiencia Ganada
+Debbimar - Haciendo este challenge por primera vez utilice la opcion de Poly Shape y me encanto. Es una herramienta muy util ya que era bastante sencilla y podia acomodarlo o tranformarlo de la forma que quisiera si tener que escoger la opcion y sin "restricciones", con esto me refiero a que tenia la libertad de tranformar un bloque de mil formas de manera sencilla. Fue interesante hacer este challenge ya que justamente en una clase de literatura estabamos hablando de este tema de el Popol Wuj y Texcoco.
 
 
 
