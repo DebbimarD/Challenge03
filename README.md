@@ -4,7 +4,7 @@
 - Debbimar Díaz Santiago
 - Jonlier Díaz Rivera
 - Jeremy Curry Romero
-  
+ 
 ## Proceso
 
 ### Paso 1
@@ -110,6 +110,16 @@ Una vez teníamos la mayor parte del templo hecho, se va a objetos 3D y se agreg
   <p><i>Se añadió el terreno y se pintó.</i></p>
 </div>
 
+### Paso 11
+
+En este último paso, le dimos un toque de creatividad. Para el terreno, usamos las brochas para pintar, dándole un toque más realista al suelo. Descargamos varios assets gratis de la página oficial de Unity, como los de los animales, las palmas y los personajes, y los añadimos al terreno. Además, le dimos color al templo creando varios materiales con distintos colores y los arrastramos a los objetos que estaban en el juego. Por otra parte, le cambiamos el fondo a uno con un cielo más real y con vegetación en la parte de atrás. 
+
+<div align="center">
+  <img src="Templo.png" width="50%" alt="Templo terminado">
+  <p><i>Templo Mayor terminado.</i></p>
+</div>
+
+
 ## Historia
 
 ### Donde la Guerra y la Lluvia se Encontraron
@@ -118,21 +128,22 @@ Huitzilin e Itzcoatl eran amigos desde pequeños. Siempre estuvieron unidos y ju
 
 Cuando Itzel descubrió que los dos la amaban, decidió poner a prueba su valentía. Les propuso que se enfrentaran y que el vencedor no solo ganaría su amor, sino también el honor de demostrar su fuerza. Huitzilin e Itzcoatl, confiados en su amistad y en su propio coraje, aceptaron el reto. Al caer la tarde, ambos se encontraron frente a la sagrada pirámide, y en su cima Itzel aguardaba para presenciar el enfrentamiento.
 
-Justo cuando sus miradas se cruzaron, algo imposible ocurrió. Una energía ancestral cayó sobre la pirámide y ambos quedaron envueltos en un resplandor cegador. Huitzilin sintió el espíritu de la guerra en su alma y, ante los ojos de Itzel, se transformó en el dios de la guerra. Itzcoatl, a su vez, sintió la fuerza de las tormentas y de sus manos brotaron relámpagos. La lucha entre ambos estremeció la tierra durante días, causando lluvias torrenciales, vientos huracanados y rugidos que quedaron grabados en la memoria de todos. Aquel enfrentamiento no solo decidiría un amor, sino que marcaría para siempre el mito del Templo Mayor, donde la guerra y la lluvia se encontraron en un combate eterno.*
+Justo cuando sus miradas se cruzaron, algo imposible ocurrió. Una energía ancestral cayó sobre la pirámide y ambos quedaron envueltos en un resplandor cegador. Huitzilin sintió el espíritu de la guerra en su alma y, ante los ojos de Itzel, se transformó en el dios de la guerra. Itzcoatl, a su vez, sintió la fuerza de las tormentas y de sus manos brotaron relámpagos. La lucha entre ambos estremeció la tierra durante días, causando lluvias torrenciales, vientos huracanados y rugidos que quedaron grabados en la memoria de todos. Aquel enfrentamiento no solo decidiría un amor, sino que marcaría para siempre el mito del Templo Mayor, donde la guerra y la lluvia se encontraron en un combate eterno.
+
+<div align="center">
+  <img src="TemploFinal.png" width="50%" alt="Escena final del Templo Mayor con personajes">
+</div>
+
 
 ## Gameplay
 
-En este juego, el jugador tiene la opción de utilizar a uno de los dos protagonistas, Huitzilin o itzcoatl. Cada uno recorre un camino propio, lo que le permite al jugador vivir esta historia desde perspectivas opuestas. La historia de Huitzilin destaca la guerra y el honor, mientras que la de Itzcoatl destaca la fuerza de las tormentas y la conexion con la naturaleza. Al completar ambos recorridos, el jugador podra experimentar como concluye la historia de ambos protagonistas y como se veria sus respectivas vidas luego de la gran batalla.
+En este juego, el jugador tiene la opción de utilizar a uno de los dos protagonistas, Huitzilin o Itzcoatl. Cada uno recorre un camino propio, lo que le permite al jugador vivir esta historia desde perspectivas opuestas. La historia de Huitzilin destaca la guerra y el honor, mientras que la de Itzcoatl destaca la fuerza de las tormentas y la conexión con la naturaleza. Al completar ambos recorridos, el jugador podrá experimentar cómo concluye la historia de ambos protagonistas y cómo se verían sus respectivas vidas luego de la gran batalla.
 
 
 ## Experiencia Ganada
-**Debbimar** - "Haciendo este **challenge** por primera vez, utilicé la opción de **Poly Shape** y me encantó. Es una herramienta muy útil, ya que era bastante sencilla y podía acomodarlo o transformarlo de la forma que quisiera sin tener que escoger la opción y sin «restricciones». Con esto me refiero a que tenía la libertad de transformar un bloque de mil formas de manera sencilla. Fue interesante hacer este **challenge**, ya que justamente en una clase de literatura estábamos hablando de este tema del Popol Vuh y Texcoco."
+**Debbimar** - Haciendo este **challenge** por primera vez, utilicé la opción de **Poly Shape** y me encantó. Es una herramienta muy útil, ya que era bastante sencilla y podía acomodarlo o transformarlo de la forma que quisiera sin tener que escoger la opción y sin «restricciones». Con esto me refiero a que tenía la libertad de transformar un bloque de mil formas de manera sencilla. Fue interesante hacer este **challenge**, ya que justamente en una clase de literatura estábamos hablando de este tema del Popol Vuh y Texcoco.
 
-**Jonlier** - "Este tercer reto me puso a sacarle jugo a Unity. Son increíbles e impresionantes las funciones y gráficos que tiene este programa. A mí, me fascinó crear este Templo Mayor. La parte creativa fue mi parte favorita. Le puse empeño para que quedara así como se muestra en la foto. Me hubiese gustado añadirle más cosas al juego, pero sé que en los próximos retos tendré la oportunidad de añadirlas. En fin, ¡reto tres superado!"
+**Jonlier** - Este tercer reto me puso a sacarle jugo a Unity. Son increíbles e impresionantes las funciones y gráficos que tiene este programa. A mí, me fascinó crear este Templo Mayor. La parte creativa fue mi parte favorita. Le puse empeño para que quedara así como se muestra en la foto. Me hubiese gustado añadirle más cosas al juego, pero sé que en los próximos retos tendré la oportunidad de añadirlas. En fin, ¡reto tres superado!
 
-**Jeremy** - "Este challenge me gustó mucho porque no solo me permitió aplicar los conocimientos adquiridos en clase, sino que también, al investigar información sobre la pirámide, pude aprender más acerca de la cultura de México. Descubrí datos importantes sobre sus tradiciones y su historia ancestral, lo que despertó mi curiosidad por conocer y valorar otras culturas más allá de la puertorriqueña."
-
-
-
-
+**Jeremy** - Este challenge me gustó mucho porque no solo me permitió aplicar los conocimientos adquiridos en clase, sino que también, al investigar información sobre la pirámide, pude aprender más acerca de la cultura de México. Descubrí datos importantes sobre sus tradiciones y su historia ancestral, lo que despertó mi curiosidad por conocer y valorar otras culturas más allá de la puertorriqueña.
 
