@@ -112,10 +112,23 @@ Una vez teníamos la mayor parte del templo hecho, se va a objetos 3D y se agreg
 
 ### Historia
 
-*Aquí puedes agregar el texto correspondiente a la historia del Templo Mayor.*
+*Historia sobre la pirámide del Templo Mayor
+
+Huitzilin e Itzcoatl eran amigos desde pequeños. Siempre estuvieron unidos y jugaban a ser guerreros en los alrededores de la pirámide del Templo Mayor. A medida que fueron creciendo, su vínculo se fortalecía cada vez más, al punto de parecer hermanos. Pero en su adolescencia, la vida les trajo un gran desafío: ambos se enamoraron de Itzel, una joven hermosa que vivía cerca del templo y que, sin darse cuenta, se volvió el centro de sus corazones.
+
+Cuando Itzel descubrió que los dos la amaban, decidió poner a prueba su valentía. Les propuso que se enfrentaran y que el vencedor no solo ganaría su amor, sino también el honor de demostrar su fuerza. Huitzilin e Itzcoatl, confiados en su amistad y en su propio coraje, aceptaron el reto. Al caer la tarde, ambos se encontraron frente a la sagrada pirámide, y en su cima Itzel aguardaba para presenciar el enfrentamiento.
+
+Justo cuando sus miradas se cruzaron, algo imposible ocurrió. Una energía ancestral cayó sobre la pirámide y ambos quedaron envueltos en un resplandor cegador. Huitzilin sintió el espíritu de la guerra en su alma y, ante los ojos de Itzel, se transformó en el dios de la guerra. Itzcoatl, a su vez, sintió la fuerza de las tormentas y de sus manos brotaron relámpagos. La lucha entre ambos estremeció la tierra durante días, causando lluvias torrenciales, vientos huracanados y rugidos que quedaron grabados en la memoria de todos. Aquel enfrentamiento no solo decidiría un amor, sino que marcaría para siempre el mito del Templo Mayor, donde la guerra y la lluvia se encontraron en un combate eterno.*
+
+### Gameplay
+
+En este juego, el jugador tiene la opción de utilizar a uno de los dos protagonistas, Huitzilin o itzcoatl. Cada uno recorre un camino propio, lo que le permite al jugador vivir esta historia desde perspectivas opuestas. La historia de Huitzilin destaca la guerra y el honor, mientras que la de Itzcoatl destaca la fuerza de las tormentas y la conexion con la naturaleza. Al completar ambos recorridos, el jugador podra experimentar como concluye la historia de ambos protagonistas y como se veria sus respectivas vidas luego de la gran batalla.
+
 
 ### Experiencia Ganada
-**Debbimar** - Haciendo este **challenge** por primera vez, utilicé la opción de **Poly Shape** y me encantó. Es una herramienta muy útil, ya que era bastante sencilla y podía acomodarlo o transformarlo de la forma que quisiera sin tener que escoger la opción y sin «restricciones». Con esto me refiero a que tenía la libertad de transformar un bloque de mil formas de manera sencilla. Fue interesante hacer este **challenge**, ya que justamente en una clase de literatura estábamos hablando de este tema del Popol Vuh y Texcoco.
+**Debbimar** - "Haciendo este **challenge** por primera vez, utilicé la opción de **Poly Shape** y me encantó. Es una herramienta muy útil, ya que era bastante sencilla y podía acomodarlo o transformarlo de la forma que quisiera sin tener que escoger la opción y sin «restricciones». Con esto me refiero a que tenía la libertad de transformar un bloque de mil formas de manera sencilla. Fue interesante hacer este **challenge**, ya que justamente en una clase de literatura estábamos hablando de este tema del Popol Vuh y Texcoco."
+
+**Jeremy** - "Este challenge me gustó mucho porque no solo me permitió aplicar los conocimientos adquiridos en clase, sino que también, al investigar información sobre la pirámide, pude aprender más acerca de la cultura de México. Descubrí datos importantes sobre sus tradiciones y su historia ancestral, lo que despertó mi curiosidad por conocer y valorar otras culturas más allá de la puertorriqueña."
 
 
 
