@@ -128,6 +128,8 @@ En este juego, el jugador tiene la opción de utilizar a uno de los dos protagon
 ## Experiencia Ganada
 **Debbimar** - "Haciendo este **challenge** por primera vez, utilicé la opción de **Poly Shape** y me encantó. Es una herramienta muy útil, ya que era bastante sencilla y podía acomodarlo o transformarlo de la forma que quisiera sin tener que escoger la opción y sin «restricciones». Con esto me refiero a que tenía la libertad de transformar un bloque de mil formas de manera sencilla. Fue interesante hacer este **challenge**, ya que justamente en una clase de literatura estábamos hablando de este tema del Popol Vuh y Texcoco."
 
+**Jonlier** - "Este tercer reto me puso a sacarle jugo a Unity. Son increíbles e impresionantes las funciones y gráficos que tiene este programa. A mí, me fascinó crear este Templo Mayor. La parte creativa fue mi parte favorita. Le puse empeño para que quedara así como se muestra en la foto. Me hubiese gustado añadirle más cosas al juego, pero sé que en los próximos retos tendré la oportunidad de añadirlas. En fin, ¡reto tres superado!"
+
 **Jeremy** - "Este challenge me gustó mucho porque no solo me permitió aplicar los conocimientos adquiridos en clase, sino que también, al investigar información sobre la pirámide, pude aprender más acerca de la cultura de México. Descubrí datos importantes sobre sus tradiciones y su historia ancestral, lo que despertó mi curiosidad por conocer y valorar otras culturas más allá de la puertorriqueña."
 
 
